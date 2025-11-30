@@ -1,0 +1,54 @@
+
+body {
+    background-color: #3a3a3a;
+}
+
+
+.bg-peach {
+    background-color: #e8c5b5;
+}
+
+.bg-light-yellow {
+    background-color: #f5f3d4;
+}
+
+.bg-pink {
+    background-color: #f5d4e5;
+}
+
+
+.item-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+
+.qty-btn {
+    width: 32px;
+    height: 32px;
+}
+
+.add-more-btn {
+    width: 45px;
+    height: 45px;
+    font-size: 28px;
+}
+
+.order-summary {
+    margin-top: auto;
+}
+
+.order-summary h3 {
+    text-decoration: underline;
+}
+
+.order-summary hr {
+    border: 2px solid #000;
+    opacity: 1;
+}
+
+.order-summary .bg-white strong:first-child {
+    color: #dc3545;
+}
